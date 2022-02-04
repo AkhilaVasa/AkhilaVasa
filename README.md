@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Akhila Immanuel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi👋, I’m @Akhila Immanuel
+- "Learning never exhausts the mind.✨"-Leonardo da Vinci
+- Let's learn and grow🌱
+- 💞️
+- 
 
 <!---
 AkhilaVasa/AkhilaVasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
