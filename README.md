@@ -1,6 +1,7 @@
 # Hi👋, I’m Akhila Immanuel
 - "Learning never exhausts the mind.✨"-Leonardo da Vinci
 - Let's learn and grow🌱💞️
+- MERN Stack developer🖥️
 - Reach me on: akhila.vasa777@gmail.com✉️
 
 <!---
