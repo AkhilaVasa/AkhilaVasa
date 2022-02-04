@@ -1,7 +1,6 @@
 - Hi👋, I’m @Akhila Immanuel
 - "Learning never exhausts the mind.✨"-Leonardo da Vinci
-- Let's learn and grow🌱
-- 💞️
+- Let's learn and grow🌱💞️
 - 
 
 <!---
