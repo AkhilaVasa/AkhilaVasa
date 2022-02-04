@@ -1,7 +1,7 @@
 # Hi👋, I’m Akhila Immanuel
 - "Learning never exhausts the mind.✨"-Leonardo da Vinci
 - Let's learn and grow🌱💞️
-- Reach me on: akhila.vasa777@gmail.com 
+- Reach me on: akhila.vasa777@gmail.com✉️
 
 <!---
 AkhilaVasa/AkhilaVasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
